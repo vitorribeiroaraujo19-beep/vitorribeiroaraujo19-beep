@@ -7,14 +7,14 @@ Me chamo Vitor e estou estudando desenvolvimento web com foco em Front-End e fut
 Estou construindo minha trajetória através de projetos reais, estudos constantes e evolução prática no desenvolvimento web.
 
 <p align="left">
-    <a href="SEU-LINK-INSTAGRAM">
+    <a href="https://www.instagram.com/vitordevs/">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Perfil-purple?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="SEU-LINK-NETLIFY">
+    <a href="vitordevweb.netlify.app">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
