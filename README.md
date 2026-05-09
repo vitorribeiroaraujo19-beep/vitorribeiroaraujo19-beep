@@ -14,7 +14,7 @@ Estou construindo minha trajetória através de projetos reais, estudos constant
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Perfil-purple?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="vitordevweb.netlify.app">
+    <a href="https://vitordevweb.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGns2ZPpG8vBXfhh9GkdbSM6uTZXVS_0_ifdGO4GTPG9aWehqQ50KkaJgQR40I_aem_6vyx_WBeWYzFcSrgI9MzNw">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
