@@ -21,7 +21,7 @@ Estou construindo minha trajetória através de projetos reais, estudos constant
             src="https://custom-icon-badges.demolab.com/badge/Portfólio-Web-blue?style=for-the-badge&logo=googlechrome&logoColor=white"
         />
     </a>
-    <a href="SEU-LINK-GITHUB">
+    <a href="https://github.com/vitorribeiroaraujo19-beep?tab=repositories">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
