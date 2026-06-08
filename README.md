@@ -1,10 +1,14 @@
 # 👨🏾‍💻 Vitor Dev
 
-**`Desenvolvedor em evolução`**
+**`Desenvolvedor de Software em evolução`**
 
-Me chamo Vitor e estou estudando desenvolvimento web com foco em Front-End e futuramente Full Stack & IA. Atualmente venho criando projetos práticos em HTML para desenvolver minhas habilidades, fortalecer meu portfólio e evoluir cada vez mais na área da programação.
+Me chamo Vitor e estou construindo minha jornada como Desenvolvedor de Software com foco em IA e Segurança.
 
-Estou construindo minha trajetória através de projetos reais, estudos constantes e evolução prática no desenvolvimento web.
+Atualmente estudo desenvolvimento web e desenvolvo projetos práticos para fortalecer minhas habilidades, construir meu portfólio e evoluir constantemente na programação.
+
+Meu objetivo é me tornar um Desenvolvedor de Software capaz de criar soluções modernas, inteligentes e seguras, combinando desenvolvimento, inteligência artificial e segurança da informação.
+
+Estou construindo essa trajetória através de projetos reais, estudos constantes, disciplina e prática diária.
 
 <p align="left">
     <a href="https://www.instagram.com/vitordevs/">
@@ -14,7 +18,7 @@ Estou construindo minha trajetória através de projetos reais, estudos constant
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Perfil-purple?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://vitordevweb.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGns2ZPpG8vBXfhh9GkdbSM6uTZXVS_0_ifdGO4GTPG9aWehqQ50KkaJgQR40I_aem_6vyx_WBeWYzFcSrgI9MzNw">
+    <a href="https://vitordevweb.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
@@ -35,30 +39,30 @@ Estou construindo minha trajetória através de projetos reais, estudos constant
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+ align="left" 
+ alt="HTML"
+ title="HTML" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+ align="left" 
+ alt="CSS"
+ title="CSS" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+ align="left" 
+ alt="GitHub"
+ title="GitHub" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
 
 <br/>
@@ -68,26 +72,38 @@ Estou construindo minha trajetória através de projetos reais, estudos constant
 
 ### 📂 Projetos
 
-- 📘 DevBlog
-- 🏋️ AcademiaX
-- 🍔 FoodPage
-- 💼 Meu Portfólio
-- 🛒 Loja Web
+* 📘 DevBlog
+* 🏋️ AcademiaX
+* 🍔 FoodPage
+* 💼 Meu Portfólio
+* 🛒 Loja Web
 
 ---
 
 ### 📊 Evolução
 
 Atualmente focado em:
-- HTML
-- Estruturação de páginas
-- Semântica HTML
-- Organização de projetos
-- Construção de portfólio
 
-Futuramente:
-- CSS
-- JavaScript
-- React
-- Full Stack
-- IA
+* HTML
+* Estruturação de páginas
+* Semântica HTML
+* Organização de projetos
+* Construção de portfólio
+
+Próximos passos:
+
+* CSS
+* JavaScript
+* Git & GitHub
+* React
+* Desenvolvimento Full Stack
+* IA
+* Segurança da Informação
+
+---
+
+### 🎯 Objetivo Profissional
+
+**Desenvolvedor de Software com IA e Segurança**
+
+Buscando construir soluções modernas, inteligentes e seguras, com foco em evolução contínua, desenvolvimento profissional e trabalho remoto internacional.
